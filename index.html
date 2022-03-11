@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMS Sender</title>
+    <link rel="icon" href="image/send-messge.png">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/fontawesome-free-5.15.2-web/css/all.min.css">
+    <script src="js/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6 mt-5">
+                <div class="card p-3">
+                    <img class="card-img-top sms-img" src="image/send-messge.png" alt="send messege">
+                    <h2 class="heading">Free <span>SMS</span> Sender</h2>
+                    <hr class="mt-0 mb-0">
+                    <div class="card-body">
+                        <form id="smsForm">
+                              <div class="collapse" id="collapseExample">
+                                <div class="form-group">
+                                  <input type="text" id="api" class="form-control" placeholder="API Key" >
+                                  <div class="d-flex justify-content-between align-items-center">
+                                    <small id="apihelp" class="text-danger"></small>
+                                    <small><a href="https://sms.net.bd/signup/" target="_blank">Get API Key</a></small>
+                                  </div>
+                                </div>
+                              </div>
+
+                            <div class="form-group">
+                              <input type="number" id="number" class="form-control" placeholder="Phone Number" >
+                              <small id="numberhelp" class="text-danger"></small>
+                            </div>
+                            <div class="form-group">
+                              <textarea maxlength="160"  class="form-control" id="msg" cols="30" rows="5" placeholder="Type your Messege...."></textarea>
+                              <small id="msghelp" class="text-danger"></small>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div >
+                                <button id="send" class="btn btn-primary">Send</button>
+                                </div>
+                                
+                                <p class="mb-0 balance" ><i class="fa fa-money-bill-alt"></i> : <strong id="balance"></strong><small class="d-block text-danger" id="lowbalance"></small></p>    
+                            </div>
+                        </form>
+                        <div class="result mt-3">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+    </div> 
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
