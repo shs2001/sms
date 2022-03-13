@@ -6,12 +6,12 @@
 Sms Sender is a web application for send sms to anyone for free. For send a sms you must need a API Key. Follow this documentation for all.
 
 ## Feature
-    1. Send Sms For Free
-    2. No need Sender Number
-    3. Only need Reciver Number
-    4. Only first time need API KEY
-    5. No one can't track you
-    6. No one can't reply to you
+1. Send Sms For Free
+2. No need Sender Number
+3. Only need Reciver Number
+4. Only first time need API KEY
+5. No one can't track you
+6. No one can't reply to you
 
 ## How to use
 1. Copy ```API KEY``` & Paste in Api key input field
