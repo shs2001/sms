@@ -55,4 +55,7 @@ Sms Sender is a web application for send sms to anyone for free. For send a sms 
 > ![api](image/api.jpg)  
 
 
-> Use & Enjoy
+> Use & Enjoy  
+
+
+# &copy; [Shakhwat Hosen](https://github.com/shs2001) | 2022
