@@ -1,7 +1,5 @@
 # About :  
-<center>
-<img src="image/img1.jpg"/>
-</center>
+<img style="display:block;margin:0 auto;" src="image/img1.jpg"/>
 
 Sms Sender is a web application for send sms to anyone for free. For send a sms you must need a API Key. Follow this documentation for all.
 
