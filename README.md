@@ -6,7 +6,7 @@ Sms Sender is a web application for send sms to anyone for free. For send a sms 
 ## Feature
 1. Send Sms For Free
 2. No need Sender Number
-3. Only need Reciver Number
+3. Only need receiver Number
 4. Only first time need API KEY
 5. No one can't track you
 6. No one can't reply to you
@@ -23,3 +23,35 @@ Sms Sender is a web application for send sms to anyone for free. For send a sms 
 * ```aPzY3td9CTd4nYk1w3XUT7tW1hJjFCOlMg1SzDwm```
 * ```Zp44c1Fl09RbI6mSppFZ50X41fqjimfR3H9WhE2a```  
 
+## Insufficient balance Fix!
+![insufficien balance](image/in.jpg)  
+
+>Click [create account here](https://sms.net.bd/signup/) & create a account for free.  
+
+>Fill the form  
+
+>![sign up](image/sign%20up.jpg)  
+
+> Click ```Sign Up``` 
+ 
+> ![otp](image/otp.jpg)  
+
+>Enter ```OTP Code``` from your phone number  
+
+> Then Click ```Confirm```  
+
+> Click to [Login](https://portal.sms.net.bd/login/)  
+
+> ![login](image/lgoin.jpg)  
+
+> Enter ```Email``` and ```Password``` and Click ```Login```.  
+
+> ![menu](image/3ree.jpg)  
+
+> Open Menu and Click ```API```  
+
+> ![api](image/api.jpg)  
+
+> Generate ```API KEY``` & Copy Key  
+
+> Use & Enjoy
