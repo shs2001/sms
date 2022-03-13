@@ -34,7 +34,7 @@ $(document).ready(function () {
                                 $(".result").html('<div class="alert alert-danger alert-dismissible fade show" role="alert"> <button type="button" class="close" data-dismiss="alert" aria-label="Close"> <span aria-hidden="true">&times;</span> <span class="sr-only">Close</span> </button> <strong>Failed !</strong> <p class="mb-0">Something went Wrong!</p></div>');
                             }
                             console.log(result);
-                            $("#number,#msg").val('');
+                            $("#msg").val('');
                         }
                     });
                 } else {
