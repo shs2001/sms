@@ -1,5 +1,9 @@
 $(document).ready(function () {
-    // var apikey = "wII1K907qp6nw5JNNqzFtDu1d6I9F6MJ48Cn083W";
+    
+    setTimeout(() => {
+        $(".preloader").hide();
+    }, 1000);
+
     var phone = $("#number").val();
     $("#smsForm").on('submit', function (e) {
         e.preventDefault();
