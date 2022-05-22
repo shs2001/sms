@@ -1,12 +1,12 @@
 ## [Web Application]
-* [Visit Now](https://shs2001.github.io/sms)
+* [Visit Now](https://shs2001.github.io/sms){target="_blank"}
 
   
 
 ## [Download Application]
-1. [Google Drive](https://drive.google.com/file/d/1TyK-qjGneVawmSPaBhacnMbvTdo7pMJ5/view?usp=sharing)
-2. [MediaFire](https://www.mediafire.com/file/h9u7j05i9r2hyoy/Free_SMS_Sender_V1.0.apk/file)
-3. [Github](https://github.com/shs2001/sms/blob/master/Free_SMS_Sender_V1.0.apk?raw=true)
+1. [Google Drive](https://drive.google.com/file/d/1TyK-qjGneVawmSPaBhacnMbvTdo7pMJ5/view?usp=sharing){target="_blank"}
+2. [MediaFire](https://www.mediafire.com/file/h9u7j05i9r2hyoy/Free_SMS_Sender_V1.0.apk/file){target="_blank"}
+3. [Github](https://github.com/shs2001/sms/blob/master/Free_SMS_Sender_V1.0.apk?raw=true){target="_blank"}
 
   
 
@@ -43,4 +43,4 @@
 
   
 
-###### [Find More Application](https://github.com/shs2001)
+###### [Find More Application](https://github.com/shs2001){target="_blank"}
